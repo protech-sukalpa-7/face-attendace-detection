@@ -1,6 +1,6 @@
-streamlit>=1.31,<1.36
+streamlit
+opencv-python-headless
 altair==4.2.2
-opencv-python
 numpy
 pandas
 pillow
